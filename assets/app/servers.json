@@ -24,6 +24,12 @@
     "server_raid": "sim"
   },
   {
+    "server_name": "Panqueca's Lake",
+    "server_trust": "não",
+    "server_bot": "sim",
+    "server_raid": "sim"
+  },
+  {
     "server_name": "Otsuki",
     "server_trust": "sim",
     "server_bot": "sim",
