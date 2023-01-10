@@ -1,0 +1,12 @@
+[
+  {
+    "site_domain": "malwares.ml",
+    "site_dns": "sim",
+    "site_html": "sim"
+  },
+  {
+    "site_domain": "controlmycar.ga",
+    "site_dns": "sim",
+    "site_html": "sim"
+  }
+]
