@@ -1,5 +1,11 @@
 [
   {
+    "server_name": "Samukk Fax",
+    "server_trust": "sim",
+    "server_bot": "sim",
+    "server_raid": "sim"
+  },
+  {
     "server_name": "SIGMA FAMILY",
     "server_trust": "sim",
     "server_bot": "sim",
